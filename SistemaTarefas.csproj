@@ -7,11 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="Program.cs" />
-    <Compile Include="Controllers\**\*.cs" />
-    <Compile Include="Models\**\*.cs" />
-    <Compile Include="Factory\**\*.cs" />
-  </ItemGroup>
-
 </Project>
